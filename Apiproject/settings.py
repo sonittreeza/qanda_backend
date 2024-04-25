@@ -62,7 +62,6 @@ CORS_ALLOW_CREDENTIALS = True
 
 
 
-CSRF_TRUSTED_ORIGINS = ["*"]
 
 ROOT_URLCONF = 'Apiproject.urls'
 
